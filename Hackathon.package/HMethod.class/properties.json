@@ -1,0 +1,14 @@
+{
+	"category" : "Hackathon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selector" ],
+	"name" : "HMethod",
+	"pools" : [
+		 ],
+	"super" : "HMeta",
+	"type" : "normal" }

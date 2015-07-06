@@ -1,0 +1,16 @@
+{
+	"category" : "Hackathon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"methods",
+		"className",
+		"isTest" ],
+	"name" : "HClass",
+	"pools" : [
+		 ],
+	"super" : "HMeta",
+	"type" : "normal" }

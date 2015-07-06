@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"averageCoverage" : "AlexandreBergel 7/6/2015 21:17",
+		"className" : "AlexandreBergel 7/6/2015 22:18",
+		"className:" : "AlexandreBergel 7/6/2015 21:06",
+		"coverageOfVersion:" : "AlexandreBergel 7/6/2015 22:07",
+		"fillFromSpyClass:version:" : "AlexandreBergel 7/6/2015 21:20",
+		"gtInspectorViewIn:" : "AlexandreBergel 7/6/2015 21:42",
+		"initialize" : "AlexandreBergel 7/6/2015 21:19",
+		"isCoverageHasDecreased" : "AlexandreBergel 7/6/2015 21:37",
+		"isCoverageHasIncreased" : "AlexandreBergel 7/6/2015 21:40",
+		"isCoverageIsConstant" : "AlexandreBergel 7/6/2015 21:37",
+		"isCoverageVariate" : "AlexandreBergel 7/6/2015 22:25",
+		"isTest" : "AlexandreBergel 7/6/2015 21:18",
+		"markAsTest" : "AlexandreBergel 7/6/2015 21:20",
+		"methods" : "AlexandreBergel 7/6/2015 20:59",
+		"numberOfCoveredMethodsOfVersion:" : "AlexandreBergel 7/6/2015 22:16",
+		"numberOfMethodsOfVersion:" : "AlexandreBergel 7/6/2015 22:15",
+		"ratioOfCoveredMethodsOfVersion:" : "AlexandreBergel 7/6/2015 22:23",
+		"renderOn:" : "AlexandreBergel 7/6/2015 21:49",
+		"versions" : "AlexandreBergel 7/6/2015 22:01" } }

@@ -1,0 +1,3 @@
+configuration
+markAsTest
+	isTest := true

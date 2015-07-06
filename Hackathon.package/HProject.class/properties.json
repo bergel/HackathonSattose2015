@@ -1,0 +1,15 @@
+{
+	"category" : "Hackathon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classes",
+		"versions" ],
+	"name" : "HProject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
