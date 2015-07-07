@@ -1,5 +1,13 @@
 {
 	"class" : {
-		 },
+		"onRepo:packageNamed:" : "VincentBlondeau 7/7/2015 12:36" },
 	"instance" : {
-		"loader" : "VincentBlondeau 7/7/2015 12:19" } }
+		"chooseRightPackages:" : "VincentBlondeau 7/7/2015 14:44",
+		"load" : "VincentBlondeau 7/7/2015 14:56",
+		"loadPackages:" : "VincentBlondeau 7/7/2015 14:54",
+		"makeTreatmentOnVersion:" : "VincentBlondeau 7/7/2015 14:24",
+		"packageName" : "VincentBlondeau 7/7/2015 12:36",
+		"packageName:" : "VincentBlondeau 7/7/2015 12:36",
+		"project" : "VincentBlondeau 7/7/2015 14:18",
+		"repo" : "VincentBlondeau 7/7/2015 12:36",
+		"repo:" : "VincentBlondeau 7/7/2015 12:36" } }
