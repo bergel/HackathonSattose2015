@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfHackathon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfHackathon",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
