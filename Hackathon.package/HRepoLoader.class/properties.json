@@ -1,0 +1,14 @@
+{
+	"category" : "Hackathon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HRepoLoader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
