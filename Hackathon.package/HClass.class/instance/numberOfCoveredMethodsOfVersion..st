@@ -1,3 +1,3 @@
-as yet unclassified
+metrics
 numberOfCoveredMethodsOfVersion: aVersion
-	^ (self methods select: [ :m | (m versions includes: aVersion) and: [ (m atVersion: aVersion) > 0 ] ]) size
+	^ (self coveredMethodsOfVersion: aVersion) size

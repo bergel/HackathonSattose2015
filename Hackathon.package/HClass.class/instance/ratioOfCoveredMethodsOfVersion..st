@@ -1,4 +1,4 @@
-as yet unclassified
+metrics
 ratioOfCoveredMethodsOfVersion: aVersion
 	| t |
 	t := self numberOfMethodsOfVersion: aVersion.
