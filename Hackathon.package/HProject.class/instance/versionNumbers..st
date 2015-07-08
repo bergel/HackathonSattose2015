@@ -1,3 +1,3 @@
 accessing
-versions: someVersinNumber
+versionNumbers: someVersinNumber
 	versions := someVersinNumber

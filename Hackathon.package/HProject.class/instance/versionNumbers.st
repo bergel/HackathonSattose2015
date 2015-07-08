@@ -1,3 +1,3 @@
-accessing - version
+accessing
 versionNumbers
-	^ versions asSortedCollection asArray
+	^ versions

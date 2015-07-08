@@ -1,0 +1,3 @@
+as yet unclassified
+numberOfClassesWithIncreasingCoverage
+	^ self classesWithIncreasedCoverage size

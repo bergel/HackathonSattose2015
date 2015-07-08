@@ -1,4 +1,4 @@
-visualization
+visualization - complexity
 gtInspectorViewIn: composite
 	<gtInspectorPresentationOrder: -10>
 	composite roassal2

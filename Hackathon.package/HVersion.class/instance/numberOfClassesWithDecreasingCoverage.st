@@ -1,0 +1,3 @@
+as yet unclassified
+numberOfClassesWithDecreasingCoverage
+	^ self classesWithDecreaseCoverage size

@@ -1,3 +1,4 @@
-accessing
+accessing - version
 versions
-	^ versions
+	"Return versions (instance of HVersion)"
+	^ self versionNumbers collect: [ :vv | self versionFor: vv ]

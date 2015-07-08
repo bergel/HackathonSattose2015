@@ -1,4 +1,4 @@
-visualization
+visualization - complexity
 renderOn: view
 
 	| b lb |
@@ -26,7 +26,8 @@ renderOn: view
 	lb addLineColor: Color green text: 'Unit test'.
 	lb addLineColor: Color blue text: 'Class with strictly increasing coverage'.
 	lb addLineColor: Color red text: 'Class with decreasing coverage'.
-	lb addText: 'Y-axis = test coverage'.
 	lb build.
+	
+	view @ RTDoubleScrollBar.
 	
 	^ view
