@@ -3,7 +3,7 @@ animatedScatterPlot
 
 	| b |
 	b := RTAnimatedScatterPlot new.
-	self versions do: [ :v | b addTable: (self tabTableOfVersion: v) ].
+	self versionNumbers do: [ :v | b addTable: (self tabTableOfVersion: v) ].
 	
 	b columns: #('NOM' '%NOCM').
 	b x: #second.

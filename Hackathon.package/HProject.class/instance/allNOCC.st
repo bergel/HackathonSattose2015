@@ -1,3 +1,3 @@
 trends
 allNOCC
-	^ self versions collect: [ :v | self numberOfCoveredClassesInVersion: v ]
+	^ self versionNumbers collect: [ :v | self numberOfCoveredClassesInVersion: v ]

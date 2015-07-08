@@ -1,3 +1,3 @@
 trends
 allNOC
-	^ self versions collect: [ :v | self numberOfClassesInVersion: v ]
+	^ self versionNumbers collect: [ :v | self numberOfClassesInVersion: v ]

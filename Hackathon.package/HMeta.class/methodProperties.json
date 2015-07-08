@@ -3,5 +3,17 @@
 		 },
 	"instance" : {
 		"atVersion:" : "AlexandreBergel 7/6/2015 20:55",
-		"atVersion:put:" : "AlexandreBergel 7/6/2015 20:55",
-		"initialize" : "AlexandreBergel 7/6/2015 21:09" } }
+		"atVersion:put:" : "AlexandreBergel 7/8/2015 13:28",
+		"hasCoverageDecreasedInVersion:" : "AlexandreBergel 7/8/2015 13:43",
+		"hasCoverageIncreasedInVersion:" : "AlexandreBergel 7/8/2015 13:42",
+		"initialize" : "AlexandreBergel 7/6/2015 21:09",
+		"isCoverageHasDecreased" : "AlexandreBergel 7/8/2015 13:36",
+		"isCoverageHasIncreased" : "AlexandreBergel 7/8/2015 13:36",
+		"isCoverageIsConstant" : "AlexandreBergel 7/8/2015 13:36",
+		"isCoverageVariate" : "AlexandreBergel 7/8/2015 13:36",
+		"isCoveredInVersion:" : "AlexandreBergel 7/8/2015 13:36",
+		"isInVersion:" : "AlexandreBergel 7/8/2015 13:36",
+		"previousCoverageOfVersion:" : "AlexandreBergel 7/8/2015 13:40",
+		"previousVersionOf:" : "AlexandreBergel 7/8/2015 13:35",
+		"versionNumbers" : "AlexandreBergel 7/8/2015 14:15",
+		"versions" : "AlexandreBergel 7/8/2015 13:23" } }

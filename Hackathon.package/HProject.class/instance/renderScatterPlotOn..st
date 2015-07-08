@@ -4,7 +4,7 @@ renderScatterPlotOn: view
 	| b |
 	b := RTAnimatedScatterPlot new.
 	b view: view.
-	self versions do: [ :v | b addTable: (self tabTableOfVersion: v) ].
+	self versionNumbers do: [ :v | b addTable: (self tabTableOfVersion: v) ].
 	
 	b columns: #('NOM' '%NOCM').
 	b x: #second.

@@ -1,0 +1,3 @@
+accessing
+classesWithIncreasedCoverage: anObject
+	classesWithIncreasedCoverage := anObject

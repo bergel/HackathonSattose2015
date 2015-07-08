@@ -1,3 +1,3 @@
-accessing-computed
-versions
+accessing
+versionNumbers
 	^ versions keys asSortedCollection asArray

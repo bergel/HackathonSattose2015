@@ -1,0 +1,18 @@
+{
+	"category" : "Hackathon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"versionNumber",
+		"newClasses",
+		"classesWithIncreasedCoverage",
+		"classesWithDecreaseCoverage",
+		"newUnitTests" ],
+	"name" : "HVersion",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
