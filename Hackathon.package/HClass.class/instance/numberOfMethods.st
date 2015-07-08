@@ -1,3 +1,3 @@
-as yet unclassified
+metrics
 numberOfMethods
 	^ self methods size

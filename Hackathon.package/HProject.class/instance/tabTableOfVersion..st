@@ -1,4 +1,4 @@
-visualization
+visualization - animated scatterplot
 tabTableOfVersion: aVersion
 	| content answer |
 	content := WriteStream on: String new.

@@ -1,4 +1,4 @@
-visualization
+visualization - animated scatterplot
 animatedScatterPlot
 
 	| b |

@@ -8,7 +8,8 @@
 	"instvars" : [
 		"methods",
 		"className",
-		"isTest" ],
+		"isTest",
+		"superclass" ],
 	"name" : "HClass",
 	"pools" : [
 		 ],

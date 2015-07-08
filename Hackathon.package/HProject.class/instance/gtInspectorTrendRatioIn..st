@@ -1,4 +1,4 @@
-visualization
+visualization - trend
 gtInspectorTrendRatioIn: composite
 	<gtInspectorPresentationOrder: -10>
 	composite roassal2

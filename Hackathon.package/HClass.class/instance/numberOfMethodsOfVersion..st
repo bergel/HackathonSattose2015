@@ -1,3 +1,3 @@
-as yet unclassified
+metrics
 numberOfMethodsOfVersion: aVersion
-	^ (self methods select: [ :m | m versions includes: aVersion ]) size
+	^ (self methodsOfVersion: aVersion) size

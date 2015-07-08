@@ -1,4 +1,4 @@
-visualization
+visualization - animated scatterplot
 gtInspectorScatterPlotIn: composite
 	<gtInspectorPresentationOrder: -10>
 	composite roassal2
