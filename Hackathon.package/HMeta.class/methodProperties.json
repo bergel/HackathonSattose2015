@@ -2,11 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"atVersion:" : "AlexandreBergel 7/6/2015 20:55",
+		"atVersion:" : "AlexandreBergel 7/6/2015 23:10:05",
 		"atVersion:put:" : "AlexandreBergel 7/8/2015 13:28",
 		"hasCoverageDecreasedInVersion:" : "AlexandreBergel 7/8/2015 13:43",
 		"hasCoverageIncreasedInVersion:" : "AlexandreBergel 7/8/2015 13:42",
-		"initialize" : "AlexandreBergel 7/6/2015 21:09",
+		"initialize" : "AlexandreBergel 7/6/2015 23:10:05",
 		"isCoverageHasDecreased" : "AlexandreBergel 7/8/2015 13:36",
 		"isCoverageHasIncreased" : "AlexandreBergel 7/8/2015 13:36",
 		"isCoverageIsConstant" : "AlexandreBergel 7/8/2015 13:36",

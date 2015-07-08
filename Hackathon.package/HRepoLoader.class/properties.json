@@ -1,0 +1,17 @@
+{
+	"category" : "Hackathon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "VincentBlondeau 7/7/2015 14:24",
+	"instvars" : [
+		"repo",
+		"packageName",
+		"project",
+		"repository" ],
+	"name" : "HRepoLoader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
