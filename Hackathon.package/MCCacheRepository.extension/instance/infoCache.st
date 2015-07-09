@@ -1,0 +1,3 @@
+*Hackathon
+infoCache
+	^ Dictionary new
