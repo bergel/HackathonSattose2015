@@ -7,12 +7,13 @@ loadHistoryOfGroupOfPackage: packageNames testIn: packagetestName
 		
 	self new loadHistoryOfGroupOfPackage: #('XML-Parser' 'XML-Tests-Parser') testIn: 'XML-Tests-Parser'
 	"
-	| project rep files versionNumber |
+	| project rep  versionNumber mcVersions fileNames |
 	rep := MCCacheRepository uniqueInstance.
-	files := self linearSequenceOfPackagesFromPatterns: packageNames.
+	mcVersions := self linearSequenceOfPackagesFromPatterns: packageNames.
 
 	project := HProject new.
-	files do: [ :aFileName |
+	fileNames := mcVersions collect: #name.
+	fileNames do: [ :aFileName |
 		versionNumber := (aFileName substrings: '.') second asInteger.
 	
 		(rep loadVersionFromFileNamed: aFileName) load.

@@ -21,4 +21,4 @@ linearSequenceOfPackagesFromPatterns: patterns
 			v1 date = v2 date 
 				ifTrue: [ v1 time < v2 time ]
 				ifFalse: [ v1 date < v2 date ] ].
-	self halt.
+	^ sortedRelevantVersionInfo
